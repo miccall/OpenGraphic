@@ -21,7 +21,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Emulation**
 
-  [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Human](#human)
+  [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Character](#character)
   
 >**Optimization**
 
@@ -46,9 +46,9 @@ Graphic Engine &amp; Game Engine open source list！
 ---
 
 ## Official
-* Unity [Unity-Technologies](https://github.com/Unity-Technologies)  &nbsp;&nbsp; [unity3d-jp](https://github.com/unity3d-jp)
+* Unity [Unity-Technologies](https://github.com/Unity-Technologies)  &nbsp;&nbsp; [unity3d-jp](https://github.com/unity3d-jp)  &nbsp;&nbsp;  [UnityLabs](https://github.com/UnityLabs)  &nbsp;&nbsp;  [UnityTech](https://github.com/unitytech)
 * AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
-* NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [nvpro-samples](https://github.com/nvpro-samples)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)
+* NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [nvpro-samples](https://github.com/nvpro-samples)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)  &nbsp;&nbsp;  [NVlabs](https://github.com/NVlabs)  
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
 * SideEfects [sideeffects](https://github.com/sideeffects) Hodini
@@ -65,15 +65,19 @@ Graphic Engine &amp; Game Engine open source list！
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
 * [G3D]( https://casual-effects.com/g3d) Graphics research and rapid prototyping in OpenGL and C++
 * [Ogre](https://github.com/ogrecave) ogre github mirror
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org 
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques. With Bullet Physics, Lua scripting, and more.
 * [xenko](https://github.com/xenko3d/xenko)  An open-source C# game engine for realistic rendering and VR
+* [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
+* [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more  
+* [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
+* [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
-* [bgfx](https://github.com/bkaradzic/bgfx) -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
-* [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org  
+* [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
+
 
 ## Engine Plugin
 * [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender
@@ -95,7 +99,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 
 ## Soft Renderer
-* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
+* [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
 * [miaow](https://github.com/VerticalResearchGroup/miaow) An open source GPU based off of the AMD Southern Islands ISA.
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
 * [coco3d](http://coco3d.codeplex.com/) Coco3D is a real-time 3D software renderer for Windows PCs and mobile devices
@@ -151,12 +155,18 @@ Graphic Engine &amp; Game Engine open source list！
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
 * [SOPGI](https://github.com/alexnardini/SOPGI)  A VEX raytracer for SideFX Houdini with photon mapping global illumination and full recursive reflections and refractions
 #### Ambient occlusion
+* [KinoObscurance](https://github.com/keijiro/KinoObscurance) Alchemy Ambient Obscurance ---AlchemyHPG11
+* [ScalableAmbientObscurance](https://research.nvidia.com/publication/scalable-ambient-obscurance) https://research.nvidia.com/publication/scalable-ambient-obscurance
+* [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
+* [Robust Screen Space Ambient Occlusion](https://github.com/wolfgangfengel/GPUZen/tree/master/04_Screen%20Space/) Robust Screen Space Ambient Occlusion
+* [HBAOPlus](https://github.com/NVIDIAGameWorks/HBAOPlus) HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs. 
+* [gl_ssao](https://github.com/nvpro-samples/gl_ssao) optimized screen-space ambient occlusion, cache-aware hbao  
+* [VXAO](https://developer.nvidia.com/vxao-voxel-ambient-occlusion) Voxel Ambient Occlusion
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
-* [KinoObscurance](https://github.com/keijiro/KinoObscurance) screen-space ambient obscurance (SSAO) image effect for Unity.
 * [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
-* [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
+* [Unity-Ground-Truth-Ambient-Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) A physically based screen space ambient occulsion post processing effect  
 * [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime
 * [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
 #### Bent Normal
@@ -179,19 +189,27 @@ Graphic Engine &amp; Game Engine open source list！
 #### Caustic
 * [SC_Tracer](https://github.com/ningfengh/SC_Tracer) photon mapping for global illumination and caustic
 #### Reflection
-* [kode80SSR](https://github.com/kode80/kode80SSR)
+* [ComputeStochasticReflections](https://github.com/simeonradivoev/ComputeStochasticReflections) Compute Stochastic Screen Space Reflections for unity post processing  
+* [kode80SSR](https://github.com/kode80/kode80SSR) An open source screen space reflections implementation for Unity3D 5.  
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
-* [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection)
-* [UnitySSR](https://github.com/cCharkes/UnitySSR)
+* [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection) Clearly Screen Space Reflection
+* [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
-* [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1)
+* [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 #### Refraction
 #### Shadow
-* [Shadows](https://github.com/TheRealMJP/Shadows)
-* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
-* [RayTracedShadows](https://github.com/kayru/RayTracedShadows)
+* [Shadows](https://github.com/TheRealMJP/Shadows) A sample app that demonstrates several techniques for rendering real-time shadow maps
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) Nvidia's PCSS soft shadow algorithm implemented in Unity
+* [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
+* [HFTS](https://developer.nvidia.com/Hybrid-Frustum-Traced-Shadows) NVIDIA Hybrid Frustum Traced Shadows in NVIDIA ShadowLib.
+* [ShadowFX](https://github.com/GPUOpen-Effects/ShadowFX) DirectX 11 and 12 library that provides a scalable and GCN-optimized solution for deferred shadow filtering 
+* [ofxShadowMap](https://github.com/arturoc/ofxShadowMap) Shadow map using PCF or gaussian disk sampling for soft borders
+* [of-ESMShadowMapping](https://github.com/jacres/of-ESMShadowMapping) Exponential Shadow Mapping in openFrameworks
+* [RayTracedShadows](https://github.com/kayru/RayTracedShadows) This demo implements BVH construction and GPU traversal for rendering hard shadows.
+* [ShadowVolume](https://github.com/chengkehan/ShadowVolume) Shadow Volume for Static-Scene-Object of Unity
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
-* [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes)
+* [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
+* [many-lights-gi](https://github.com/karyon/many-lights-gi) Real-time global illumination following the many-lights approach and using Imperfect Shadow Maps
 
 ## PostProcessing 
 #### Collection
@@ -209,7 +227,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [SMAA](https://github.com/Chman/SMAA) SMAA in unity3D
 * [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
 * [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
+* [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 #### Denoising 
+* [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
 #### Bloom
@@ -227,14 +247,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 
-## Human
+## Character
 #### Skin
 * [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf) Implementation of Donner & Jensen's "A Spectral BSSRDF for Shading Human Skin" in PBRT
-* [skinparam](https://github.com/patwonder/skinparam) Real-time skin renderer with adjustable skin parameters
 * [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS) Naive screen-space subsurface scattering solution for Unity 5.
 * [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
-* [UnityCharacterRender_SeparableSubsurfaceScatter](https://github.com/haolange/UnityCharacterRender_SeparableSubsurfaceScatter)
+* [Unity-Human-Skin-Shader-PC](https://github.com/MaxwellGengYF/Unity-Human-Skin-Shader-PC)
 * [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
 
 #### Eye
@@ -248,22 +267,22 @@ Graphic Engine &amp; Game Engine open source list！
 #### Silk
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
-* [NeoFur](https://github.com/TsPersonalOrganization/neo-fur-for-unity)
+* [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
 
 ## Nature
 #### Water
-* [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system
+* [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity  
 * [WaterSurfaceWavelets](https://github.com/lecopivo/WaterSurfaceWavelets) Water Surface Wavelets (SIGGRAPH 2018) http://visualcomputing.ist.ac.at/publications/2018/WSW/
 * [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
-* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
-* [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
+* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Crest is a technically advanced ocean renderer implemented in Unity3D
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
-* [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
+* [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
+* [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
-* [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water) Ocean simulation based on Tessendorf's FFT technique and Gerstner wave. Stockham formulation. White cap.
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
+* [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
@@ -301,28 +320,29 @@ Graphic Engine &amp; Game Engine open source list！
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 * [CSky-Dynamic-Sky-Unity](https://github.com/AKuellar/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System
 * [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
+* [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 #### Rain
-* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
-* [RainFX](https://github.com/smkplus/RainFX)
+* [RainFX](https://github.com/smkplus/RainFX) Natural Rain
 #### Fire
 * [fire](https://github.com/robertcupisz/fire) A fire effect for Unity.
 #### Ice
 #### Iridescent
 * [Iridescence](https://github.com/Xerxes1138/Iridescence)
-* [Iridescent Shader](https://www.patreon.com/posts/iridescent-18699278)
+* [Iridescent Shader](https://github.com/smkplus/Iridescence) Iridescence shader
 #### Glass
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) Test of a frosted glass material in Unity.
 
 ## Environment
 #### VolumetricLight
-* [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights)
-* [LightShafts](https://github.com/robertcupisz/LightShafts)
-* [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering)
-* [Scattering_Demos](https://github.com/yoyonel/Scattering_Demos)
-* [Volumetric_Dynamic_Lights](https://github.com/yoyonel/Volumetric_Dynamic_Lights)
-* [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)
+* [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) Volumetric Lights for Unity
+* [LightShafts](https://github.com/robertcupisz/LightShafts) A light shafts (volumetric shadows) effect for Unity.
+* [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering) Outdoor Light Scattering Sample
+* [VolumetricLighting](https://github.com/NVIDIAGameWorks/VolumetricLighting) NVIDIA Gameworks Volumetric Lighting
+* [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) ighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
+* [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 #### Atmospheric
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering)
 * [AtmosphericScattering](https://github.com/yangzhengxing/AtmosphericScattering)
@@ -331,23 +351,20 @@ Graphic Engine &amp; Game Engine open source list！
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
 #### Fog
-* [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
 * [UEShaderBits-GDC-Pack](https://github.com/sp0lsh/UEShaderBits-GDC-Pack)  UE4 Volumetric Fog Techniques
 ## Render Path
-* [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
-* [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader)
+* [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading) :thumbsup: Volume Tiled Forward Shading. This technique is based on Tiled and Clustered Forward Shading (Olsson, 2012)
+* [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
+* [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) and [IntelForwardClusteredShading](https://software.intel.com/en-us/articles/forward-clustered-shading) Clustered shading on Android sample  
+* [clustered_forward_demo](https://gitlab.com/efficient_shading/clustered_forward_demo) Ola Olsson. 
 * [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
-* [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
-* [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique implementation of Clustered Deferred Shading
-
-* [light-indexed](https://github.com/wibbe/light-indexed) 
-* [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender)
-* [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
-* [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
-* [Makma](https://github.com/janhsimon/Makma) Makma is a deferred Vulkan renderer written in C++.
-* [nTiled](https://github.com/BeardedPlatypus/nTiled)
-* [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing)
+* [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique featured in GPU Pro 7  
+* [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender) Light Indexed Deferred Rendering - Before there was Forward+ and Clustered deferred rendering there was Light Indexed Deferred Rendering (ShaderX7)  
+* [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project. 
+* [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading) Cute little deferred shading implementation.
+* [nTiled](https://github.com/BeardedPlatypus/nTiled) nTiled - forward and deferred openGL renderer with support for Tiled Shading, Clustered Shading and Hashed Shading
+* [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing) A rendering sample that demonstrates bindless deferred texturing using D3D12
 
 ## Physically Based Rendering
 #### Camera
@@ -355,7 +372,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [pbc](https://github.com/kiwaiii/pbc)
 * [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
 #### File Format
+* [OpenShadingLanguage](https://github.com/imageworks/OpenShadingLanguage) Advanced shading language for production GI renderers
 * [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF (GL Transmission Format -https://github.com/KhronosGroup/glTF).  
+* [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 
 ## Shade Model
 ### BSDF
@@ -374,10 +393,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
 * [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
-* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
+* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 * [ScreenSpaceSubsurfaceScattering](https://github.com/Xerxes1138/ScreenSpaceSubsurfaceScattering)
+* [MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer.
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
@@ -407,6 +427,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [voxelizer](https://github.com/karimnaaji/voxelizer)  Header only mesh voxelizer in c99 
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)  A GPU Accelerated Voxel Physics Solver for Unity
 * [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
+* [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
 
 ## Volume Rendering
 #### RayMarch
@@ -475,6 +496,7 @@ Other.....
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
+* [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 
 ## Image&Color
 #### Computer Vision
@@ -525,6 +547,8 @@ Other.....
 #### Deform Destruction  
 * [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
+#### Slicer
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 #### Modeling
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998   
@@ -542,7 +566,7 @@ Other.....
 * [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
  #### Reconstruction
  * [meshroom](https://github.com/alicevision/meshroom) 3D Reconstruction Software based on the (AliceVision)[https://github.com/alicevision/AliceVision] framework.
- 
+ * [openMVG](https://github.com/openMVG/openMVG)  open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 ## Platform
 * [herebedragons](https://github.com/kosua20/herebedragons)
 * [glfw](https://github.com/glfw/glfw)
@@ -586,6 +610,7 @@ Other.....
 #### Decal
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
 #### OutLine
+* [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.  
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 #### Motion
@@ -622,6 +647,7 @@ Other.....
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
+* [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
@@ -670,10 +696,14 @@ Other.....
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
+* [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
+* [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
+* [NVIDIA Direct3D SDK 9](https://www.nvidia.com/object/sdk-9.html)
 #### Book Code
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
+* [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
 #### Graphic SDK
 * [GodComplex](https://github.com/Patapom/GodComplex)
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
@@ -702,6 +732,7 @@ Other.....
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
 * [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
+* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
 #### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
@@ -715,6 +746,7 @@ Other.....
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
 * [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)   anim map for vertex shader to modify the vertex position of the mesh at runtime. use gpu instancing to reduce draw call.
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
+* [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
